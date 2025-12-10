@@ -17,7 +17,7 @@ The primary goals of the Service Request & Ticket Tracking CRM are:
 •	To create a scalable foundation for future automations such as notifications, escalations, and approvals.
 •	To allow the System Administrator to efficiently manage workload and track time.
 
-⭐ PHASE-WISE DOCUMENTATION________________________________________
+📚 PHASE-WISE DOCUMENTATION________________________________________
 
 ✅ PHASE 1 — Problem Understanding & Business Need
 The business problem was:
